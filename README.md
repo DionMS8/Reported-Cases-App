@@ -10,7 +10,7 @@
 
 
 
-## Web Dev Technologies
+## Technologies
 
 - HTML5
 - CSS3
