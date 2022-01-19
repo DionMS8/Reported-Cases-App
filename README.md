@@ -1,4 +1,4 @@
-# Memories-MERN-App
+# Memories App 💭
 
 ## Table of contents
 * [General Description](#general-info)
