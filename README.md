@@ -23,7 +23,7 @@
 
 ## Project Procedure
 
-- Create a React App on the Client Side (npx create-react-app)
+- Create a React App on the Client Side 
 - npm run start (on the client side)
 - Open localhost:3000
 - Connect to the MongoDB Database
