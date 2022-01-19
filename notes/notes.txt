@@ -1,0 +1,29 @@
+=====[NOTES]=========================================================== 
+
+===[CLIENT]=====================================================================
+
+NPM INIT
+NPX CREATE-REACT-APP ./
+NPM INSTALL AXIOS MOMENT REACT-FILE-BASE64 REDUX 
+REDUX-THUNK
+
+===[SERVER]=====================================================================
+
+NPM INSTALL EXPRESS MONGOOSE BODY-PARSER CORS 
+NODEMON
+
+===[PROJECT PROCESS]==========================================================
+
+- NPM RUN START (IN THE CLIENT)
+- OPEN LOCALHOST: 3000
+- CONNECT TO THE MONGODB DATABASE
+- CREATE A MONGODB CLUSTER
+- SET UP MODELS
+- CREATE DOCUMENTS 
+
+
+
+
+
+
+
