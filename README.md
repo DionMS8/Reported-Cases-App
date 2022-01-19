@@ -21,4 +21,14 @@
 - MongoDB
 
 
+## Project Procedure
+
+- Create a React App on the Client Side (npx create-react-app)
+- npm run start (on the client side)
+- Open localhost:3000
+- Connect to the MongoDB Database
+- Create a MongoDB Cluster
+- Set Up Models
+- Create Documents
+
 ## Screenshots 
