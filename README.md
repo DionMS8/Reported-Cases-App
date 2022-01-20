@@ -14,10 +14,9 @@
 
 - HTML5 & CSS3
 - JavaScript (ES6)
-- Node
-- Express
 - React
-- MongoDB
+- Node & Express
+- MongoDB & Mongoose
 - Material-UI
 - Axios
 
