@@ -5,7 +5,7 @@
 NPM INIT
 NPX CREATE-REACT-APP ./
 NPM INSTALL AXIOS MOMENT REACT-FILE-BASE64 REDUX 
-REDUX-THUNK
+REDUX-THUNK @MATERIAL-UI/CORE
 
 ===[SERVER]=====================================================================
 
@@ -22,6 +22,13 @@ NODEMON
 - CREATE DOCUMENTS 
 
 
+===[MATERIAL-UI COMPONENTS]====================================================
+
+- CONTAINER
+- APPBAR
+- TYPOGRAPHY => HEADERS, PARAGRAPHS AND LINKS
+- GROW
+- GRID
 
 
 
