@@ -1,16 +1,22 @@
 //=====[THE POSTS COMPONENT]====================================================
 
 import React from "react";
+import Post from "./Post/Post";
 
 const Posts = () => {
     return(
-        <div className="posts">
+        <>
             <h1>POSTS</h1>
-        </div>
+            <Post />
+            <Post />
+        </>
     );
 };
 
 export default Posts;
+
+
+
 
 
 
