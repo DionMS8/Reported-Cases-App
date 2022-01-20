@@ -1,4 +1,4 @@
-# False Identity Cases Log 💭
+# False Identity Cases Report 💭
 
 ## Table of contents
 * [General Description](#general-info)
