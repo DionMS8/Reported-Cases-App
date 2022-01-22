@@ -7,7 +7,7 @@
 
 
 ## General Description
-
+This is a full-stack social media web app that allows users to reminisce and post interesting events that happened in their lives. It is built with the MERN stack and deployed using Heroku Cloud hosting.
 
 
 ## Technologies
